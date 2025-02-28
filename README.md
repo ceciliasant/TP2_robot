@@ -1,6 +1,6 @@
 # Simulation of the process of manipulation of the robot Yaskawa SDA10F
 
-This MATLAB project simulates the Yaskawa SDA10F dual-arm robot assembling blocks from conveyor belts using forward, inverse, and differential kinematics.
+This MATLAB project simulates the Yaskawa SDA10F dual-arm robot assembling blocks from conveyor belts using trajectory planning, forward, inverse, and differential kinematics.
 
 ## 1. Robot Model
 
